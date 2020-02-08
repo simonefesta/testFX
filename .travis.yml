@@ -13,3 +13,4 @@ before_install:
 script: 
 - cd Calcolatrice
 - ant build
+- sonar-scanner
